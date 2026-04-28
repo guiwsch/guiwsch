@@ -1,9 +1,9 @@
-<h1 align="center">Olá! Eu sou o Guilherme 👋</h1>
+<h1 align="center">Olá, eu sou o Guilherme</h1>
 
 <p align="center">
   <strong>Software Engineer</strong> · <strong>Founder of SaaS products</strong>
   <br/>
-  📍 Florianópolis, SC · Brasil 🇧🇷
+  Florianópolis, SC · Brasil
 </p>
 
 <p align="center">
@@ -17,19 +17,19 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor **fullstack** focado em construir **produtos SaaS** do zero — da arquitetura ao deploy. Meu trabalho do dia-a-dia gira em torno de três produtos próprios, cada um resolvendo um problema real:
+Sou desenvolvedor fullstack focado em construir produtos SaaS do zero — da arquitetura ao deploy. Meu trabalho do dia-a-dia gira em torno de três produtos próprios, cada um resolvendo um problema real:
 
-- 🤖 **Atendimento automatizado via WhatsApp** com IA (Orion Bots)
-- 💸 **Educação e organização financeira** pessoal (Lumi)
-- 📦 **Automação de e-commerce** no Mercado Livre (Huge ML)
+- **Atendimento automatizado via WhatsApp** com IA (Orion Bots)
+- **Educação e organização financeira** pessoal (Lumi)
+- **Automação de e-commerce** no Mercado Livre (Huge ML)
 
-Gosto de **construir rápido, validar com usuário real e iterar**. Backend forte, frontend pixel-perfect, infra simples.
+Backend forte, frontend pixel-perfect, infra simples. Construir rápido, validar com usuário real, iterar.
 
 ---
 
-## 🚀 Empresas & Produtos
+## Empresas e Produtos
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ Gosto de **construir rápido, validar com usuário real e iterar**. Backend fort
         <img src="https://github.com/orion-bots.png" width="120" height="120" alt="Orion Bots" style="border-radius: 50%"/>
       </a>
       <br/><br/>
-      <strong>🤖 Orion Bots</strong><br/>
+      <strong>Orion Bots</strong><br/>
       <sub>Plataforma multi-tenant<br/>de bots WhatsApp com IA</sub>
       <br/><br/>
       <a href="https://orionbots.com.br">
@@ -50,7 +50,7 @@ Gosto de **construir rápido, validar com usuário real e iterar**. Backend fort
         <img src="https://github.com/lumi-assessora.png" width="120" height="120" alt="Lumi Assessora" style="border-radius: 50%"/>
       </a>
       <br/><br/>
-      <strong>💸 Lumi Assessora</strong><br/>
+      <strong>Lumi Assessora</strong><br/>
       <sub>Assistente financeira<br/>pessoal com IA</sub>
       <br/><br/>
       <a href="https://lumiacessora.com.br">
@@ -62,7 +62,7 @@ Gosto de **construir rápido, validar com usuário real e iterar**. Backend fort
         <img src="https://github.com/huge-ml.png" width="120" height="120" alt="Huge ML" style="border-radius: 50%"/>
       </a>
       <br/><br/>
-      <strong>📦 Huge ML</strong><br/>
+      <strong>Huge ML</strong><br/>
       <sub>SaaS para integração<br/>com Mercado Livre</sub>
       <br/><br/>
       <a href="https://hugeml.com.br">
@@ -74,7 +74,7 @@ Gosto de **construir rápido, validar com usuário real e iterar**. Backend fort
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -96,22 +96,3 @@ Gosto de **construir rápido, validar com usuário real e iterar**. Backend fort
   </a>
 </p>
 <p align="center"><sub><strong>Tools</strong> — Git · GitHub · Linux · VS Code</sub></p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiwsch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=guiwsch&theme=tokyonight&hide_border=true" alt="Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwsch&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Langs" height="180"/>
-</p>
-
----
-
-<p align="center">
-  <em>✨ Construindo produtos, um commit por vez ✨</em>
-</p>
